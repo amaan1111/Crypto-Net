@@ -34,7 +34,7 @@ function App() {
           >
             Copyright © 2022 <br />
             <Link to="/" id="link">
-              CryptoLabs
+              CryptoNet
             </Link>
             <br />
             All Rights Reserved.

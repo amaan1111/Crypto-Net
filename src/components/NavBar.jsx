@@ -39,7 +39,7 @@ const Navbar = () => {
         <Avatar src={icon} size="large" />
         <Typography.Title level={1} className="logo">
           <Link to="/">
-            <p>CryptoLabs</p>
+            <p>CryptoNet</p>
           </Link>
         </Typography.Title>
         <Button
